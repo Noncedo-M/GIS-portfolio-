@@ -1,0 +1,8 @@
+# Flood Risk and Climate Vulnerability in KwaZulu-Natal, South Africa
+
+## 1. Introduction
+Flooding is one of the most frequent natural hazards in KwaZulu-Natal (KZN), South Africa. The province has experienced severe floods in recent years, leading to loss of lives, destruction of infrastructure, and displacement of communities.
+The aim of this project is to use GIS to identify areas in KZN that are most vulnerable to flooding. The analysis considers elevation, rivers, and flood hazard data, as well as population distribution, to highlight the high-risk zones.
+
+![Study Area Map](maps/study_area.png)
+*Figure 1: Location of KwaZulu-Natal in South Africa.*
